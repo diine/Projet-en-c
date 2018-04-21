@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1524333361 source:/home/ach-raf/Bureau/pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pendu.h"
+
+1524327118 source:/home/ach-raf/Bureau/pendu/caractere.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1524333221 source:/home/ach-raf/Bureau/pendu/compar.c
+	<stdio.h>
+	<string.h>
+
+1524327118 source:/home/ach-raf/Bureau/pendu/substitution.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524330216 /home/ach-raf/Bureau/pendu/pendu.h
+
+1524327118 source:/home/ach-raf/Bureau/pendu/remplitab.c
+	<stdio.h>
+	<stdlib.h>
+
+1524330652 source:/home/ach-raf/Bureau/pendu/fichier.c
+	<stdio.h>
+	<stdlib.h>
+
+1524330876 source:/home/ach-raf/Bureau/pendu/geneRmot.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524327118 source:/home/h/pendu/caractere.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1524333555 source:/home/h/pendu/compar.c
+	<stdio.h>
+	<string.h>
+
+1524330652 source:/home/h/pendu/fichier.c
+	<stdio.h>
+	<stdlib.h>
+
+1524330876 source:/home/h/pendu/geneRmot.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1524334258 source:/home/h/pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pendu.h"
+
+1524330216 /home/h/pendu/pendu.h
+
+1524327118 source:/home/h/pendu/remplitab.c
+	<stdio.h>
+	<stdlib.h>
+
+1524327118 source:/home/h/pendu/substitution.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
